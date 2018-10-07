@@ -26,6 +26,5 @@ public class RentalBasket implements CustomerRental {
 	public int getNumItems() {
 		return childRentals.size();
 	}
-	}
 	
 }
